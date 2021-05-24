@@ -1,0 +1,13 @@
+-c prod.txt
+jupyterlab
+matplotlib
+nltk
+notebook
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+seaborn
+tensorflow
+tqdm
