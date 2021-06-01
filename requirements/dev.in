@@ -1,5 +1,6 @@
 -c prod.txt
 jupyterlab
+graphviz
 matplotlib
 nltk
 notebook
@@ -11,3 +12,4 @@ scipy
 seaborn
 tensorflow
 tqdm
+xgboost
